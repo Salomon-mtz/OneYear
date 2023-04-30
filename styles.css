@@ -1,0 +1,29 @@
+.container{
+    position: relative;
+}
+
+.child{
+    position: absolute;
+    top: 50%;
+    padding-top: 200px;
+}
+
+.enviar{
+    width: 45%;
+    
+}
+
+.sorpresa{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#myVideo {
+    max-width: 95%;
+  }
+
+  .content {
+    position:fixed;
+    top: 0;
+    padding: 20px;
+  }
